@@ -1,4 +1,4 @@
-#Simep shell script for exercieses and leurning:
+# Shell script for exercises and learning:
 
 When you running this shell script, bash will provide the number 88 in a loop.
 
