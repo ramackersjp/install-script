@@ -8,6 +8,7 @@ When you running this shell script, bash will provide the number 88 in a loop. A
 Example:
 
 #!/bin/bash
+
 echo "sudo uninstall"
 read uninstallpkg
 sudo apt remove --purge -y $uninstallpkg && apt autoremove -y
