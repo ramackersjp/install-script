@@ -5,7 +5,7 @@ When you running this shell script, bash will provide the number 88 in a loop. A
 ## Why i could be dangerous?
 1. In a shell script you can run terminal based commands! If you don't know what you doing, it is possible that you gonna run a script that will delete your whole desktop environment.
 
-Example:
+Example (Please do not run this example!):
 
 #!/bin/bash
 
