@@ -2,7 +2,7 @@
 
 When you running this shell script, bash will provide the number 88 in a loop. After you understand what shell scripting is you will never run a bash script again without first looking in to the source. The changge you run a virus is huge! Thats the lesson. 
 
-## Why i could be dangerous?
+## Why it could be dangerous?
 1. In a shell script you can run terminal based commands! If you don't know what you doing, it is possible that you gonna run a script that will delete your whole desktop environment.
 
 Example (Please do not run this example!):
