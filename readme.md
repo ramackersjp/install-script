@@ -3,5 +3,5 @@ Download install.sh and make it executable (chmod +x install.sh), and then run i
 Single install command:
 
 ```
-bash <(curl -L githubusercontent.com/ramackersjp/install-script/main/install.sh)
+bash <(curl -L raw.githubusercontent.com/ramackersjp/install-script/main/install.sh)
 ```
